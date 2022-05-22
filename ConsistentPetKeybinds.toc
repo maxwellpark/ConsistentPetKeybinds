@@ -1,0 +1,10 @@
+## Interface: 20504
+## Title: Consistent Pet Keybinds 
+## Notes: Keeps pet keybinds the same when changing pets
+## Version: 1.0.0
+## SavedVariables: CPK_Settings
+
+# Scripts
+ConsistentPetKeybinds.lua
+
+# To get the current WoW version: /run print((select(4, GetBuildInfo())));
